@@ -1,5 +1,7 @@
 # parkjumi
 
-용량 오류로 인해 최종 동영상 파일은 유튜브 링크로 대체합니다.
+동영상링크 : 
 https://youtu.be/U_atE4m7sHU
 
+발표 자료 및 3D 모델링자료 :
+https://github.com/parkjumi1212/parkjumi.github.io.git
